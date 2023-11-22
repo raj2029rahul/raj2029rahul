@@ -2,12 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=raj2029rahul&color=dc143c)
 
-<h3>I'm Rahul Raj, from Siliguri, India. Currently I am pursuing my pre-final year B.Tech in Information Technology 💻 from Siliguri Institute of Technology, West Bengal, India.</h3>
+<h3>I'm Rahul Raj, from kolkata, India. I'm working as a software engineer at sasken technology Ltd West Bengal, India.</h3>
 
 
-- 🔭 I’m currently working on Core Java and SQL.
-- 🌱 I’m currently learning  Advance JAVA.
-- 💬 Ask me about : Core java and Relational Database like SQL.
+- 🔭 I’m currently working on Automotive technology.
+- 🌱 I’m currently learning Autosar and Telematics along with Networking.
 - 😄 Pronouns: he/him  🧑🏻
 - ⚡ Fun fact: I'm Half-finished.
 
@@ -15,10 +14,14 @@
 
 These are some of the major technologies that I use:
 
-**Programming Languages**
+**Programming Languages and technology**
 
-<img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>|<img title="Mysql" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> |<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">| <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-|--|--|--|--|--|
+C programming<br>
+C++ programming language<br>
+java<br>
+Kernal and Driver development<br>
+Automotive technology<br>
+Networking<br> 
 <br>
 
 
